@@ -1,0 +1,36 @@
+{
+  "manifest_version": 2,
+  "version": "0.1",
+  "name": "Virtual MozFest 2023",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(183, 0, 126, 0)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(182, 4, 202)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(0, 0, 0)",
+      "popup": "rgb(0, 0, 0)",
+      "popup_text": "rgb(255, 255, 255)",
+      "toolbar_field_border_focus": "rgb(0, 0, 0)",
+      "toolbar_field_focus": "rgb(0, 0, 0)",
+      "toolbar_top_separator": "rgba(0, 0, 0, 0)",
+      "tab_loading": "rgb(0, 0, 0)",
+      "tab_selected": "black"
+    }
+  }
+}
